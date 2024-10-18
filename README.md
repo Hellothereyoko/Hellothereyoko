@@ -11,6 +11,11 @@
 # $${\color{red}Yoko} {} {\color{red}Parks}$$
 
 
+
+</div>
+
+<div align="center">
+  
 #### $${\color{red}Pronounced _"yoh-koh"_}$$
 #### $${\color{red}Full Time Student  &  Part Time Mad Scientist}$$
 
