@@ -2,17 +2,11 @@
 
 # $${\color{red}Yoko} {} {\color{red}Parks}$$
 
-</div>
-
-<div align="center">
-  
 #### _Pronounced_ _"yoh-koh"_
 
 #### Full Time Student & Part Time Mad Scientist
 
-</div>
-
-<div>
+<br>
 
 ### Programming Languages:
 - Bash Shell Scripting | **8 years** |
@@ -38,9 +32,7 @@
 - CoFounder @ CorgoR&D: 2023
 - Design & Modelling Program @ John Shaw Jr. High: 2016 - 2018
 
-</div>
-
-<div align="center">
+<br>
 
 [![header](https://assets-sports-gcp.thescore.com/basketball/team/1564/small_logo.png)](https://inside.ewu.edu/)
 
@@ -49,5 +41,8 @@
 ### Most of my repos are projects for university or are some of my endeavors. Good work is comin'!
 
 <p>My GitHub primarily reflects my experimentation with new technologies, hobby projects, and learning endeavors. Please view it as my dedication to research & learning 🧪 rather than a testament of my professional abilities 🦸.</p>
+
+</div>
+
 
 </div>
