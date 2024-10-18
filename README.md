@@ -12,7 +12,7 @@
 
 
 ### _Pronounced_ "yoh-koh"
-### *Full Time Student*  Part Time Mad Scientist.
+### Full Time Student  &  Part Time Mad Scientist.
 
 
 ### Programming Languages:
