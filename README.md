@@ -27,7 +27,6 @@
 - Java | **1 month** |
 - C/C++/Arduino Code | **1 year** |
 
-<div>
 ### Platforms:
 - Arch Linux
 - Debian Linux
@@ -36,7 +35,7 @@
 - Android
 - ESP32-like PLCS 
 
-<div> 
+
 ### Experience:
 - CyberSecurity Training & Mentorship @ US Air Force Asssociation Cyberpatriot:  2018 - 2019
 - Machine Operator @ Wireless Sensor Technologies: 2024
