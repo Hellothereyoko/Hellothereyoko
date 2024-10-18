@@ -27,7 +27,7 @@
 - C/C++/Arduino Code | **1 year** |
 
 
-###  Platforms:
+### Platforms:
 - Arch Linux
 - Debian Linux
 - MAC/UNIX
@@ -46,7 +46,6 @@
 </div>
 
 ## 
-
 
 <div align="center">
 
