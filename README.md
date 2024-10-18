@@ -11,8 +11,8 @@
 # $${\color{red}Yoko} {} {\color{red}Parks}$$
 
 
-#### $${\color{red} _Pronounced_ _"yoh-koh"_}$$
-#### $${\color{red} Full Time Student  &  Part Time Mad Scientist}$$
+#### $${\color{red}Pronounced _"yoh-koh"_}$$
+#### $${\color{red}Full Time Student  &  Part Time Mad Scientist}$$
 
 
 ### Programming Languages:
