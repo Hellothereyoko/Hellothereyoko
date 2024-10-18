@@ -21,11 +21,11 @@
 #
 
 ### Programming Languages:
--Bash Shell Scripting | 8 years |
--Python | 5 years |
--Java | 1 month |
--C/C++/Arduino Code | 1 year |
--Adobe Lightroom | 1 year High School Certificate |
+- Bash Shell Scripting | 8 years |
+- Python | 5 years |
+- Java | 1 month |
+- C/C++/Arduino Code | 1 year |
+- Adobe Lightroom | 1 year High School Certificate |
 
 ### OS:
 Arch Linux, Debian Linux, UNIX/MAC, Microsoft Windows, Android 
