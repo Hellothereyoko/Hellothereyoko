@@ -13,7 +13,7 @@
 
 ### _Pronounced_ "yoh-koh"
 ### *Full Time Student*. -Part Time Mad Scientist.
-{\ space}
+
 
 ### Programming Languages:
 | Bash Shell Scripting | 8 years |
