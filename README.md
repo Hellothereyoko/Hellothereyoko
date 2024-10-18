@@ -17,7 +17,6 @@
 <br>
 
 ### Platforms:
-<br>
 Arch Linux • Debian Linux • MAC/UNIX • Microsoft Windows • Android • ESP32-like PLCS
 
 <br>
