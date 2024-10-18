@@ -12,7 +12,7 @@
 
 
 ### _Pronounced_ "yoh-koh"
-### *Full Time Student*. -Part Time Mad Scientist.
+### *Full Time Student*  Part Time Mad Scientist.
 
 
 ### Programming Languages:
@@ -26,7 +26,7 @@
 Arch Linux, Debian Linux, UNIX/MAC, Microsoft Windows, Android 
 
 
-## Experience:
+### Experience:
 - CyberSecurity Training & Mentorship @ US Air Force Asssociation Cyberpatriot:  2018 - 2019
 - Machine Operator @ Wireless Sensor Technologies: 2024
 - CoFounder @ CorgoR&D: 2023
