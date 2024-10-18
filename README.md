@@ -9,21 +9,21 @@
 <br>
 
 ### Programming Languages:
-Bash Shell Scripting | **8 years** |
-Python | **5 years** |
-Java | **1 month** |
-C/C++/Arduino Code | **1 year** |
+- Bash Shell Scripting | **8 years** |
+- Python | **5 years** |
+- Java | **1 month** |
+- C/C++/Arduino Code | **1 year** |
 
 <br>
 
 ### Platforms:
 <br>
-- Arch Linux
-- Debian Linux
-- MAC/UNIX
-- Microsoft Windows
-- Android
-- ESP32-like PLCS 
+|Arch Linux|
+|Debian Linux|
+|MAC/UNIX|
+|Microsoft Windows|
+|Android|
+|ESP32-like PLCS| 
 
 <br>
 
