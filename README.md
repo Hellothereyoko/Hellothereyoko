@@ -19,7 +19,7 @@
 #### _Pronounced_ _"yoh-koh"_
 #### Full Time Student  &  Part Time Mad Scientist
 
-
+</div>
 ### Programming Languages:
 | Bash Shell Scripting | 8 years |
 | Python | 5 years |
