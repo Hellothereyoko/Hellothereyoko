@@ -22,7 +22,6 @@ Arch Linux • Debian Linux • MAC/UNIX • Microsoft Windows • Android • E
 <br>
 
 ### Experience:
-<br>
 - CyberSecurity Training & Mentorship @ US Air Force Association Cyberpatriot: 2018 - 2019
 - Machine Operator @ Wireless Sensor Technologies: 2024
 - CoFounder @ CorgoR&D: 2023
