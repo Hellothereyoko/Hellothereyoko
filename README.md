@@ -11,8 +11,8 @@
 # $${\color{red}Yoko} {} {\color{red}Parks}$$
 
 
-## _Pronounced_ _"yoh-koh"_
-## Full Time Student  &  Part Time Mad Scientist.
+#### _Pronounced_ _"yoh-koh"_
+#### Full Time Student  &  Part Time Mad Scientist.
 
 
 ### Programming Languages:
