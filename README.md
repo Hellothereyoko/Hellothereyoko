@@ -27,8 +27,13 @@
 - C/C++/Arduino Code | **1 year** |
 
 
-### OS:
-Arch Linux, Debian Linux, UNIX/MAC, Microsoft Windows, Android 
+### Platforms:
+- Arch Linux
+- Debian Linux
+- MAC/UNIX
+- Microsoft Windows
+- Android
+- ESP32-like PLCS 
 
 
 ### Experience:
