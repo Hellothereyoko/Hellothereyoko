@@ -9,6 +9,7 @@
 <br>
 
 ### Programming Languages:
+<br>
 - Bash Shell Scripting | **8 years** |
 - Python | **5 years** |
 - Java | **1 month** |
@@ -17,6 +18,7 @@
 <br>
 
 ### Platforms:
+<br>
 - Arch Linux
 - Debian Linux
 - MAC/UNIX
@@ -27,6 +29,7 @@
 <br>
 
 ### Experience:
+<br>
 - CyberSecurity Training & Mentorship @ US Air Force Association Cyberpatriot: 2018 - 2019
 - Machine Operator @ Wireless Sensor Technologies: 2024
 - CoFounder @ CorgoR&D: 2023
