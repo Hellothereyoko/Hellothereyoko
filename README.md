@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## $${\color{red}Yoko} {} {\color{red}Parks}$$
+## title $${\color{red}Yoko} {} title {\color{red}Parks}$$
 
 
 ### _Pronounced_ _"yoh-koh"_
