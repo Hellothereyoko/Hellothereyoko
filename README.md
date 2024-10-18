@@ -1,31 +1,26 @@
-
-
-
-
-
-
-</div>
-
 <div align="center">
 
 # $${\color{red}Yoko} {} {\color{red}Parks}$$
-
-
 
 </div>
 
 <div align="center">
   
 #### _Pronounced_ _"yoh-koh"_
-#### Full Time Student  &  Part Time Mad Scientist
 
-<div> 
+#### Full Time Student & Part Time Mad Scientist
+
+</div>
+
+<div>
 
 ### Programming Languages:
 - Bash Shell Scripting | **8 years** |
 - Python | **5 years** |
 - Java | **1 month** |
 - C/C++/Arduino Code | **1 year** |
+
+<br>
 
 ### Platforms:
 - Arch Linux
@@ -35,24 +30,24 @@
 - Android
 - ESP32-like PLCS 
 
+<br>
 
 ### Experience:
-- CyberSecurity Training & Mentorship @ US Air Force Asssociation Cyberpatriot:  2018 - 2019
+- CyberSecurity Training & Mentorship @ US Air Force Association Cyberpatriot: 2018 - 2019
 - Machine Operator @ Wireless Sensor Technologies: 2024
 - CoFounder @ CorgoR&D: 2023
 - Design & Modelling Program @ John Shaw Jr. High: 2016 - 2018
 
-
 </div>
-
-## 
 
 <div align="center">
 
 [![header](https://assets-sports-gcp.thescore.com/basketball/team/1564/small_logo.png)](https://inside.ewu.edu/)
 
 ##   $${\color{red}📖 EWU \space Projects🖊}$$ 
+
 ### Most of my repos are projects for university or are some of my endeavors. Good work is comin'!
 
 <p>My GitHub primarily reflects my experimentation with new technologies, hobby projects, and learning endeavors. Please view it as my dedication to research & learning 🧪 rather than a testament of my professional abilities 🦸.</p>
+
 </div>
