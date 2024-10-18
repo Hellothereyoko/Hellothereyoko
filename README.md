@@ -8,10 +8,10 @@
 
 <div align="center">
 
-# $${\color{red}Yoko} {} {\color{red}Parks}$$
+## $${\color{red}Yoko} {} {\color{red}Parks}$$
 
 
-### _Pronounced_ "yoh-koh"
+### _Pronounced_ _"yoh-koh"_
 ### Full Time Student  &  Part Time Mad Scientist.
 
 
