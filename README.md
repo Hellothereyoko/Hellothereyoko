@@ -22,10 +22,10 @@ Arch Linux • Debian Linux • MAC/UNIX • Microsoft Windows • Android • E
 <br>
 
 ### Experience:
-- CyberSecurity Training & Mentorship @ US Air Force Association Cyberpatriot: 2018 - 2019
-- Machine Operator @ Wireless Sensor Technologies: 2024
-- CoFounder @ CorgoR&D: 2023
-- Design & Modelling Program @ John Shaw Jr. High: 2016 - 2018
+- CyberSecurity Training & Mentorship @ US Air Force Association Cyberpatriot: _2018 - 2019_
+- Machine Operator @ Wireless Sensor Technologies: _2024_
+- CoFounder @ CorgoR&D: _2023_
+- Design & Modelling Program @ John Shaw Jr. High: _2016 - 2018_
 
 <br>
 
