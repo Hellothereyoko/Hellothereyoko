@@ -16,6 +16,13 @@
 
 <br>
 
+### Other Maker Skills:
+- OPENSCAD 3d CAD
+- Autodesk Inventor
+- KiCad Circuit Building
+
+<br>
+
 ### Platforms:
 Arch Linux • Debian Linux • MAC/UNIX • Microsoft Windows • Android • ESP32-like PLCS
 
