@@ -11,8 +11,8 @@
 ### Programming Languages:
 - Bash Shell Scripting | **8 years** |
 - Python | **5 years** |
-- Java | **1 month** |
-- C/C++/Arduino Code | **1 year** |
+- Java | **3 months** |
+- C/C#/Arduino Code | **1 year** |
 
 <br>
 
