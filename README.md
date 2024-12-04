@@ -44,9 +44,9 @@ Arch Linux • Debian Linux • MAC/UNIX • Microsoft Windows • Android • E
 
 ###   $${\color{red}📖 EWU \space Projects🖊}$$ 
 
-## Most of my repos are projects for university or are some of my endeavors. More of my work is comin' !
+## My repos are a combination of projects for university or my personal projects. More of my work is comin' !
 
-<p> My GitHub primarily reflects my experimentation with new technology, hobby projects, and learning endeavors. Please view it as my dedication to research & learning 🧪 rather than a testament of my professional abilities 🦸.</p>
+<p> My GitHub primarily reflects my experimentation with new technology, hobby projects, and learning endeavors. Please view it as my dedication to research & learning 🧪 rather than a testament of my full professional abilities 🦸.</p>
 
 </div>
 
