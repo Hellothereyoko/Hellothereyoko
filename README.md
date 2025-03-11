@@ -11,8 +11,8 @@
 ### $${\color{red}Programming} {} {\color{red}Languages:}$$
 - Bash Shell Scripting | **8 years** |
 - Python | **5 years** |
-- Java | **3 months** |
-- C/C#/Arduino Code | **1 year** |
+- Java | **6 months** |
+- C/C#/Arduino Code | **2 years** |
 
 <br>
 
@@ -46,7 +46,7 @@ Arch Linux • Debian Linux • MAC/UNIX • Microsoft Windows • Android • E
 
 ## My repos are a combination of projects for university or my personal projects. More of my work is comin' !
 
-<p> My GitHub primarily reflects my experimentation with new technology, hobby projects, and learning endeavors. Please view it as my dedication to research & learning 🧪 rather than a testament of my full professional abilities 🦸.</p>
+<p> My GitHub primarily reflects my experimentation with new technology, hobby projects, and learning endeavors. Please view this as my way of experimenting 🧪 rather than a raw testament of my full abilities 🦸.</p>
 
 </div>
 
