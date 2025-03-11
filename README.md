@@ -9,10 +9,22 @@
 <br>
 
 ### $${\color{red}Programming} {} {\color{red}Languages:}$$
-- Bash Shell Scripting | **8 years** |
-- Python | **5 years** |
-- Java | **6 months** |
-- C/C#/Arduino Code | **2 years** |
+- Bash Shell Scripting  | **8 years** |
+- C/C#/Arduino Code  | **2 years** |
+- HTML Markup  | **3 months** |
+- Java  | **6 months** |
+- Python  | **5 years** |
+
+<br>
+
+
+<br>
+
+### $${\color{red} Preferred} {} {\color{red}IDEs:}$$
+- Atom IDE
+- CLion
+- GCC terminal IDE
+- IntelliJ
 
 <br>
 
