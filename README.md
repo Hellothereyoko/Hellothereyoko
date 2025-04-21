@@ -9,10 +9,10 @@
 <br>
 
 ### $${\color{red}Programming} {} {\color{red}Languages:}$$
-- Bash Shell Scripting  | **8 years** |
-- C/C#/Arduino Code  | **2 years** |
-- HTML Markup  | **3 months** |
-- Java  | **6 months** |
+- Bash/Unix Shell Scripting  | **8 years** |
+- C/C#/C++/Arduino Code  | **2 years** |
+- HTML Markup  | **5 months** |
+- Java  | **9 months** |
 - Python  | **5 years** |
 
 <br>
@@ -21,10 +21,9 @@
 <br>
 
 ### $${\color{red} Preferred} {} {\color{red}IDEs:}$$
-- Atom IDE
-- CLion
-- GCC terminal IDE
-- IntelliJ
+- CLion/Intellij
+- GCC/G++ terminal IDE
+- Python IDLE
 
 <br>
 
@@ -58,7 +57,7 @@ Arch Linux • Debian Linux • MAC/UNIX • Microsoft Windows • Android • E
 
 ## My repos are a combination of projects for university or my personal projects. More of my work is comin' !
 
-<p> My GitHub primarily reflects my experimentation with new technology, hobby projects, and learning endeavors. Please view this as my way of experimenting 🧪 rather than a raw testament of my full abilities 🦸.</p>
+<p> My GitHub primarily reflects my experimentation with new technology, hobby projects, and learning endeavors. Please view this as my way of experimenting 🧪 and technical showcasing.</p>
 
 </div>
 
