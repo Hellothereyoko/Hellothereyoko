@@ -74,7 +74,7 @@ Arch Linux • Debian Linux • MAC/UNIX • Microsoft Windows • Android • E
 
 [![header](https://assets-sports-gcp.thescore.com/basketball/team/1564/small_logo.png)](https://inside.ewu.edu/)
 
-##   $${\color{red}📖 EWU \space Projects🖊}$$ 
+## $${\color{red}📖 EWU \space Projects🖊}$$ 
 
 <p> My GitHub primarily reflects my experimentation with new technology, hobby projects, and learning endeavors. Please view this as my way of experimenting 🧪 and technical showcasing.</p>
 
