@@ -64,7 +64,6 @@ Arch Linux • Debian Linux • MAC/UNIX • Microsoft Windows • Android • E
 - CyberSecurity Training & Mentorship @ US Air Force Association Cyberpatriot: _2018 - 2019_
 - Bachelor's Degree of Computer Science Concentration in Mathematics: _2019 - Present_
 - CoFounder @ CorgoR&D: _2023 - Present_
-- Machine Operator @ Wireless Sensor Technologies: _Summer 2024_
 
 </div>
 
