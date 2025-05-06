@@ -14,7 +14,7 @@
 - Bash/Unix Shell Scripting  | **8 years** |
 - C/C#/C++/Arduino Code  | **2 years** |
 - HTML Markup  | **5 months** |
-- Java  | **9 months** |
+- Java  | **11 months** |
 - Python  | **5 years** |
 
 </div>
