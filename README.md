@@ -17,7 +17,7 @@
 - HTML Markup  | **8 months** |
 - Java  | **1 year** |
 - Python  | **5 years** |
-- VSCode  | **1 year** |
+
 
 </div>
 
@@ -33,6 +33,7 @@
 - CLion/Intellij
 - GCC/G++ terminal IDE
 - Python IDLE
+- VSCode
 
 </div>
 
