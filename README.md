@@ -2,7 +2,7 @@
 
 # $${\color{red}Yoko} {} {\color{red}Parks}$$
 
-<p> Pronounced "yoh-koh" </p>
+<b> Pronounced "yoh-koh" </b>
 
 #### Full Time Student & Part Time Mad Scientist
 
@@ -11,10 +11,11 @@
 <div align="center">
   
 ## $${\color{red}Programming} {} {\color{red}Languages:}$$
-- Bash/Unix Shell Scripting  | **8 years** |
+
+- Bash/Unix Shell Scripting  | **9 years** |
 - C/C#/C++/Arduino Code  | **2 years** |
-- HTML Markup  | **5 months** |
-- Java  | **11 months** |
+- HTML Markup  | **8 months** |
+- Java  | **1 year** |
 - Python  | **5 years** |
 
 </div>
@@ -39,10 +40,12 @@
 <div align="center">
   
 ## $${\color{red}Other} {} {\color{red}Maker} {} {\color{red}Skills:}$$
-- OPENSCAD 3d CAD
+
 - Autodesk Inventor
 - KiCad Circuit Building
+- OPENSCAD 3d CAD Manufacturing 
 - Ren'Py Game Engine
+- Reverse Engineering 
 
 </div>
 
@@ -51,7 +54,13 @@
 <div align="center">
 
 ## $${\color{red}Platforms:}$$
-Arch Linux • Debian Linux • MAC/UNIX • Microsoft Windows • Android • ESP32-like PLCS
+
+- Android
+- Arch Linux
+- Debian Linux
+- MAC/UNIX
+- Microsoft Windows
+- ESP32-like PLCS
 
 </div>
 
@@ -61,8 +70,11 @@ Arch Linux • Debian Linux • MAC/UNIX • Microsoft Windows • Android • E
 
 ## $${\color{red}Experience:}$$
 - Design & Modelling Program @ John Shaw Jr. High: _2016 - 2018_
+  
 - CyberSecurity Training & Mentorship @ US Air Force Association Cyberpatriot: _2018 - 2019_
+
 - Bachelor's Degree of Computer Science Concentration in Mathematics: _2019 - Present_
+
 - CoFounder @ CorgoR&D: _2023 - Present_
 
 </div>
