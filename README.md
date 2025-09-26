@@ -80,15 +80,4 @@ System Architecture Engineer
 </div>
 <br><br>
 
-
-<p align="center">
-  <a href="https://inside.ewu.edu/">
-    <img src="https://assets-sports-gcp.thescore.com/basketball/team/1564/small_logo.png" alt="EWU Logo" width="80">
-  </a>
-</p>
-
-<h2 align="center">📖 <span style="color:red">Click Me to Go Check Out Eastern WA University!</span> 🖊</h2>
-
-
-
 ---
