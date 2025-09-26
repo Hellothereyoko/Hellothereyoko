@@ -87,12 +87,8 @@ System Architecture Engineer
   </a>
 </p>
 
-<h2 align="center">📖 <span style="color:red">EWU Projects</span> 🖊</h2>
+<h2 align="center">📖 <span style="color:red">Click Me to Go Check Out Eastern WA University!</span> 🖊</h2>
 
-<p align="center">
-  My GitHub primarily reflects my experimentation with new technology, hobby projects, and learning endeavors.  
-  Please view this as my way of experimenting 🧪 and technical showcasing.
-</p>
 
 
 ---
