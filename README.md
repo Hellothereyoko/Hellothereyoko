@@ -2,30 +2,42 @@
 
 # $${\color{red}Yoko} {} {\color{red}Parks}$$
 
-<b> Pronounced "yoh-koh" </b>
+  <b> Pronounced "yoh-koh" </b>
 
 #### Full Time Student & Part Time Mad Scientist
+  <br>
 
-<br>
+
+</div>
+
+  <br>
+
 
 <div align="center">
   
 ## $${\color{red}Programming} {} {\color{red}Languages:}$$
 
-- Bash/Unix Shell Scripting  | **9 years** |
-- C/C#/C++/Arduino Code  | **2 years** |
-- HTML Markup  | **8 months** |
-- Java  | **1 year** |
-- Python  | **5 years** |
+  <br>
+
+|                            |             |
+|----------------------------|-------------|
+| Bash/Unix Shell Scripting  | 9 years |
+| C/C#/C++/Arduino Code      | 2 years |
+| HTML Markup                | 8 months |
+| Java                       | 1 year |
+| Python                     | 5 years |
+
+
+  </br>
 
 
 </div>
 
 
-<br>
+  <br>
 
 
-<br>
+  <br>
 
 <div align="center">
 
@@ -37,11 +49,13 @@
 
 </div>
 
-<br>
+
+  <br>
+
 
 <div align="center">
   
-## $${\color{red}Other} {} {\color{red}Maker} {} {\color{red}Skills:}$$
+## $${\color{red}Additional} {} {\color{red}Skills:}$$
 
 - Autodesk Inventor
 - KiCad Circuit Building
@@ -51,22 +65,26 @@
 
 </div>
 
-<br>
+  <br>
+
 
 <div align="center">
 
 ## $${\color{red}Platforms:}$$
 
-- Android
-- Arch Linux
-- Debian Linux
-- MAC/UNIX
-- Microsoft Windows
-- ESP32-like PLCS
+|          |
+| -------- |
+| Android  |
+| Arch Linux |
+| Debian Linux | 
+| MAC/UNIX |
+| Microsoft Windows |
+| ESP32-like PLCS |
 
 </div>
 
-<br>
+  <br>
+
 
 <div align="center">
 
@@ -83,13 +101,15 @@
 
 
 
-<br>
+  <br>
 
+<div align="center">
+  
 [![header](https://assets-sports-gcp.thescore.com/basketball/team/1564/small_logo.png)](https://inside.ewu.edu/)
 
 ## $${\color{red}📖 EWU \space Projects🖊}$$ 
 
-<p> My GitHub primarily reflects my experimentation with new technology, hobby projects, and learning endeavors. Please view this as my way of experimenting 🧪 and technical showcasing.</p>
+  <p> My GitHub primarily reflects my experimentation with new technology, hobby projects, and learning endeavors. Please view this as my way of experimenting 🧪 and technical showcasing.</p>
 
 </div>
 
