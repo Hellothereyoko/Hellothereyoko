@@ -1,117 +1,98 @@
-<div align="center">
-
-# $${\color{red}Yoko} {} {\color{red}Parks}$$
-
-  <b> Pronounced "yoh-koh" </b>
-
-#### Full Time Student & Part Time Mad Scientist
-  <br>
-
-
-</div>
-
-  <br>
+ <h1 align="center"> $${\color{red}Yoko} {} {\color{red}Parks}$$ </h1>
 
 
 <div align="center">
   
-## $${\color{red}Programming} {} {\color{red}Languages:}$$
+### **Languages:** English, Spanish, Japanese
 
-  <br>
-
-|                            |             |
-|----------------------------|-------------|
-| Bash/Unix Shell Scripting  | 9 years |
-| C/C#/C++/Arduino Code      | 2 years |
-| HTML Markup                | 8 months |
-| Java                       | 1 year |
-| Python                     | 5 years |
+System Architecture Engineer
 
 
-  </br>
 
 
-</div>
+<br><br>
 
 
-  <br>
-
-
-  <br>
+<h2 align="center"> $${\color{red}Professional} {} {\color{red}Skills}$$ </h2>
 
 <div align="center">
 
-## $${\color{red} Preferred} {} {\color{red}IDEs:}$$
-- CLion/Intellij
-- GCC/G++ terminal IDE
-- Python IDLE
-- VSCode
-
-</div>
-
-
-  <br>
-
-
-<div align="center">
-  
-## $${\color{red}Additional} {} {\color{red}Skills:}$$
-
-- Autodesk Inventor
-- KiCad Circuit Building
-- OPENSCAD 3d CAD Manufacturing 
-- Ren'Py Game Engine
-- Reverse Engineering 
-
-</div>
-
-  <br>
-
-
-<div align="center">
-
-## $${\color{red}Platforms:}$$
-
-|          |
-| -------- |
-| Android  |
-| Arch Linux |
-| Debian Linux | 
-| MAC/UNIX |
-| Microsoft Windows |
-| ESP32-like PLCS |
-
-</div>
-
-  <br>
+<table>
+  <tr>
+    <td valign="top" style="padding-right: 40px;">
+      <strong><span style="color:red"> $${\color{red}Programming} {} {\color{red}Languages}$$ </span></strong><br><br>
+      <ul>
+        <li>Bash / Unix Shell – 9 years</li>
+        <li>C / C# / C++ / Arduino – 2 years</li>
+        <li>HTML / Markdown – 8 months</li>
+        <li>Java – 1 year</li>
+        <li>Python – 5 years</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <strong><span style="color:red"> $${\color{red}Platforms}$$ </span></strong><br><br>
+      <ul>
+        <li>Android</li>
+        <li>Arch Linux</li>
+        <li>Debian Linux</li>
+        <li>Mac / Unix</li>
+        <li>Windows</li>
+        <li>ESP32-like PLCs</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <strong><span style="color:red"> $${\color{red}IDEs}$$</span></strong><br><br>
+      <ul>
+        <li>Atom</li>
+        <li>CLion</li>
+        <li>GCC / G++</li>
+        <li>Intellij</li>
+        <li>Python IDLE</li>
+        <li>VSCode</li>
+  </tr>
+</table>
 
 
-<div align="center">
-
-## $${\color{red}Experience:}$$
-- Design & Modelling Program @ John Shaw Jr. High: _2016 - 2018_
-  
-- CyberSecurity Training & Mentorship @ US Air Force Association Cyberpatriot: _2018 - 2019_
-
-- Bachelor's Degree of Computer Science Concentration in Mathematics: _2019 - Present_
-
-- CoFounder @ CorgoR&D: _2023 - Present_
-
-</div>
+<br>
+<ul align="center">
+  <li>Autodesk Inventor</li>
+  <li>Circuit Building & Hardware Manufacturing</li>
+  <li>CyberSecurity & Systems Networking</li>
+  <li>OPENSCAD 3D CAD Modeling</li>
+  <li>Ren'Py Game Engine</li>
+  <li>Reverse Engineering of Computer Architecture</li>
+</ul>
 
 
+<div>
+<div></div>
+<br><br>
 
-  <br>
+<h2 align="center"><span style="color:red">$${\color{red}Education} {} {\color{red}and} {} {\color{red}Experience}$$</span></h2>
 
 <div align="center">
-  
-[![header](https://assets-sports-gcp.thescore.com/basketball/team/1564/small_logo.png)](https://inside.ewu.edu/)
 
-## $${\color{red}📖 EWU \space Projects🖊}$$ 
-
-  <p> My GitHub primarily reflects my experimentation with new technology, hobby projects, and learning endeavors. Please view this as my way of experimenting 🧪 and technical showcasing.</p>
-
-</div>
-
+- 🎓 <strong>Design & Modelling Program</strong> @ John Shaw Jr. High (_2016 - 2018_)  
+- 🛡️ <strong>CyberSecurity Mentorship</strong> @ USAF CyberPatriot (_2018 - 2019_)  
+- 📚 <strong>Bachelor’s in Computer Science</strong> @ EWU (_2019 - Present_)  
+- 🚀 <strong>CoFounder</strong> @ CorgoR&D (_2023 - Present_)
 
 </div>
+<br><br>
+
+
+<p align="center">
+  <a href="https://inside.ewu.edu/">
+    <img src="https://assets-sports-gcp.thescore.com/basketball/team/1564/small_logo.png" alt="EWU Logo" width="80">
+  </a>
+</p>
+
+<h2 align="center">📖 <span style="color:red">EWU Projects</span> 🖊</h2>
+
+<p align="center">
+  My GitHub primarily reflects my experimentation with new technology, hobby projects, and learning endeavors.  
+  Please view this as my way of experimenting 🧪 and technical showcasing.
+</p>
+
+
+---
