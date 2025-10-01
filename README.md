@@ -1,16 +1,11 @@
- <h1 align="center"> $${\color{red}Yoko} {} {\color{red}Parks}$$ </h1>
-
-
-<div align="center">
+<div align="center"> 
   
+# $${\color{red}Yoko} {} {\color{red}Parks}$$ 
 ### **Languages:** English, Spanish, Japanese
-
 System Architecture Engineer
 
+ <br><br>
 
-
-
-<br><br>
 
 
 <h2 align="center"> $${\color{red}Professional} {} {\color{red}Skills}$$ </h2>
@@ -53,7 +48,8 @@ System Architecture Engineer
 </table>
 
 
-<br>
+
+ <br>
 <ul align="center">
   <li>Autodesk Inventor</li>
   <li>Circuit Building & Hardware Manufacturing</li>
@@ -64,9 +60,16 @@ System Architecture Engineer
 </ul>
 
 
-<div>
-<div></div>
-<br><br>
+ <br>
+
+<div align="center">
+
+## $${\color{red}Featured} {} {\color{red}Projects}$$
+<br>
+
+- MacOS Jailbreak App: https://github.com/Hellothereyoko/MacOS-Enable-Homebrew
+
+ <br><br>
 
 <h2 align="center"><span style="color:red">$${\color{red}Education} {} {\color{red}and} {} {\color{red}Experience}$$</span></h2>
 
