@@ -65,7 +65,6 @@ System Architecture Engineer
 <div align="center">
 
 ## $${\color{red}Featured} {} {\color{red}Projects}$$
-<br>
 
 - MacOS Jailbreak App: https://github.com/Hellothereyoko/MacOS-Enable-Homebrew
 
