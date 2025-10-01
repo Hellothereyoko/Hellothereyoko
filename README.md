@@ -66,18 +66,20 @@ System Architecture Engineer
 
 ## $${\color{red}Featured} {} {\color{red}Projects}$$
 
-- MacOS Jailbreak App: https://github.com/Hellothereyoko/MacOS-Enable-Homebrew
+- **MacOS Jailbreak App:** https://github.com/Hellothereyoko/MacOS-Enable-Homebrew
+- **Weather API:** https://github.com/Hellothereyoko/My-Weather-API
 
  <br><br>
 
 <h2 align="center"><span style="color:red">$${\color{red}Education} {} {\color{red}and} {} {\color{red}Experience}$$</span></h2>
 
-<div align="center">
-
+<div align="center">  
+  
 - 🎓 <strong>Design & Modelling Program</strong> @ John Shaw Jr. High (_2016 - 2018_)  
 - 🛡️ <strong>CyberSecurity Mentorship</strong> @ USAF CyberPatriot (_2018 - 2019_)  
 - 📚 <strong>Bachelor’s in Computer Science</strong> @ EWU (_2019 - Present_)  
-- 🚀 <strong>CoFounder</strong> @ CorgoR&D (_2023 - Present_)
+- 🚀 <strong>CoFounder</strong> @ CorgoR&D (_2023 - Present_)  
+- 🔧 <strong>Artifical Intelligence QA Tester</strong> @ Cengage Inc. (_2025_)
 
 </div>
 <br><br>
