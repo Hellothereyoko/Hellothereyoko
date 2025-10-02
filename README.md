@@ -1,16 +1,24 @@
-<div align="center"> 
+
   
-# $${\color{red}Yoko} {} {\color{red}Parks}$$  
-### **Languages:** English, Spanish, Japanese  
-$${\color{yellow}System} {} {\color{yellow}Architecture} {} {\color{yellow}Engineer}$$
+<h1 align="center"> $${\color{red}Yoko} {} {\color{red}Parks}$$  </h1>
+
+<div align="center">  
+  
+  **Languages:** English, Spanish, Japanese  </div>
+ 
+<p div align="center"> 
+  
+  $${\color{yellow}System} {} {\color{yellow}Architecture} {} {\color{yellow}Engineer}$$ </p>
 
 </div>
 
-<br><br>
+  <br><br>
+
+  
 
 <h2 align="center"> $${\color{red}Professional} {} {\color{red}Skills}$$ </h2>
 
-<!-- 💡 Scrollable table wrapper -->
+<!-- Scrollable table wrapper -->
 <div style="overflow-x: auto; width: 100%;">
 
 <table align="center" style="border-collapse: separate; border-spacing: 40px 0;">
@@ -65,6 +73,8 @@ $${\color{yellow}System} {} {\color{yellow}Architecture} {} {\color{yellow}Engin
   </ul>
 </div>
 
+
+
 <br><br>
 
 <div align="center">
@@ -72,13 +82,14 @@ $${\color{yellow}System} {} {\color{yellow}Architecture} {} {\color{yellow}Engin
 
   - **MacOS Jailbreak App:** [Click Me!](https://github.com/Hellothereyoko/MacOS-Enable-Homebrew)  
   - **Weather API:** [Click Me!](https://github.com/Hellothereyoko/My-Weather-API)
+
 </div>
+
+
 
 <br><br>
 
-<h2 align="center">
-  $${\color{red}Education} {} {\color{red}and} {} {\color{red}Experience}$$
-</h2>
+<h2 align="center"> $${\color{red}Education} {} {\color{red}and} {} {\color{red}Experience}$$ </h2>
 
 <div align="center">  
   
