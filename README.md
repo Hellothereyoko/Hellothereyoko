@@ -77,9 +77,10 @@
 
 <br><br>
 
-<div align="center">
-  <h2> $${\color{red}Featured} {} {\color{red}Projects}$$ </h2>
+  <h2 align="center"> $${\color{red}Featured} {} {\color{red}Projects}$$ </h2>
 
+<div align="center">
+  
   - **MacOS Jailbreak App:** [Click Me!](https://github.com/Hellothereyoko/MacOS-Enable-Homebrew)  
   - **Weather API:** [Click Me!](https://github.com/Hellothereyoko/My-Weather-API)
 
