@@ -1,21 +1,22 @@
 <div align="center"> 
   
-# $${\color{red}Yoko} {} {\color{red}Parks}$$ 
-### **Languages:** English, Spanish, Japanese
-System Architecture Engineer
+# $${\color{red}Yoko} {} {\color{red}Parks}$$  
+### **Languages:** English, Spanish, Japanese  
+$${\color{yellow}System} {} {\color{yellow}Architecture} {} {\color{yellow}Engineer}$$
 
- <br><br>
+</div>
 
-
+<br><br>
 
 <h2 align="center"> $${\color{red}Professional} {} {\color{red}Skills}$$ </h2>
 
-<div align="center">
+<!-- 💡 Scrollable table wrapper -->
+<div style="overflow-x: auto; width: 100%;">
 
-<table>
+<table align="center" style="border-collapse: separate; border-spacing: 40px 0;">
   <tr>
-    <td valign="top" style="padding-right: 40px;">
-      <strong><span style="color:red"> $${\color{red}Programming} {} {\color{red}Languages}$$ </span></strong><br><br>
+    <td valign="top">
+      <strong><span style="color:red">$${\color{red}Programming} {} {\color{red}Languages}$$</span></strong><br><br>
       <ul>
         <li>Bash / Unix Shell – 9 years</li>
         <li>C / C# / C++ / Arduino – 2 years</li>
@@ -25,7 +26,7 @@ System Architecture Engineer
       </ul>
     </td>
     <td valign="top">
-      <strong><span style="color:red"> $${\color{red}Platforms}$$ </span></strong><br><br>
+      <strong><span style="color:red">$${\color{red}Platforms}$$</span></strong><br><br>
       <ul>
         <li>Android</li>
         <li>Arch Linux</li>
@@ -36,7 +37,7 @@ System Architecture Engineer
       </ul>
     </td>
     <td valign="top">
-      <strong><span style="color:red"> $${\color{red}IDEs}$$</span></strong><br><br>
+      <strong><span style="color:red">$${\color{red}IDEs}$$</span></strong><br><br>
       <ul>
         <li>Atom</li>
         <li>CLion</li>
@@ -44,44 +45,50 @@ System Architecture Engineer
         <li>Intellij</li>
         <li>Python IDLE</li>
         <li>VSCode</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
+</div>
 
-
- <br>
-<ul align="center">
-  <li>Autodesk Inventor</li>
-  <li>Circuit Building & Hardware Manufacturing</li>
-  <li>CyberSecurity & Systems Networking</li>
-  <li>OPENSCAD 3D CAD Modeling</li>
-  <li>Ren'Py Game Engine</li>
-  <li>Reverse Engineering of Computer Architecture</li>
-</ul>
-
-
- <br>
+<br>
 
 <div align="center">
+  <ul style="list-style: none; padding: 0;">
+    <li>Autodesk Inventor</li>
+    <li>Circuit Building & Hardware Manufacturing</li>
+    <li>CyberSecurity & Systems Networking</li>
+    <li>OPENSCAD 3D CAD Modeling</li>
+    <li>Ren'Py Game Engine</li>
+    <li>Reverse Engineering of Computer Architecture</li>
+  </ul>
+</div>
 
-## $${\color{red}Featured} {} {\color{red}Projects}$$
+<br><br>
 
-- **MacOS Jailbreak App:** https://github.com/Hellothereyoko/MacOS-Enable-Homebrew
-- **Weather API:** https://github.com/Hellothereyoko/My-Weather-API
+<div align="center">
+  <h2> $${\color{red}Featured} {} {\color{red}Projects}$$ </h2>
 
- <br><br>
+  - **MacOS Jailbreak App:** [Click Me!](https://github.com/Hellothereyoko/MacOS-Enable-Homebrew)  
+  - **Weather API:** [Click Me!](https://github.com/Hellothereyoko/My-Weather-API)
+</div>
 
-<h2 align="center"><span style="color:red">$${\color{red}Education} {} {\color{red}and} {} {\color{red}Experience}$$</span></h2>
+<br><br>
+
+<h2 align="center">
+  $${\color{red}Education} {} {\color{red}and} {} {\color{red}Experience}$$
+</h2>
 
 <div align="center">  
   
-- 🎓 <strong>Design & Modelling Program</strong> @ John Shaw Jr. High (_2016 - 2018_)  
-- 🛡️ <strong>CyberSecurity Mentorship</strong> @ USAF CyberPatriot (_2018 - 2019_)  
-- 📚 <strong>Bachelor’s in Computer Science</strong> @ EWU (_2019 - Present_)  
-- 🚀 <strong>CoFounder</strong> @ CorgoR&D (_2023 - Present_)  
-- 🔧 <strong>Artifical Intelligence QA Tester</strong> @ Cengage Inc. (_2025_)
-
+  - 🎓 **Design & Modelling Program** @ John Shaw Jr. High (_2016 - 2018_)  
+  - 🛡️ **CyberSecurity Mentorship** @ USAF CyberPatriot (_2018 - 2019_)  
+  - 📚 **Bachelor’s in Computer Science** @ EWU (_2019 - Present_)  
+  - 🚀 **CoFounder** @ CorgoR&D (_2023 - Present_)  
+  - 🔧 **Artificial Intelligence QA Tester** @ Cengage Inc. (_2025_)
+    
 </div>
-<br><br>
 
 ---
+
