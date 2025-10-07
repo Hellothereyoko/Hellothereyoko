@@ -8,7 +8,7 @@
  
 <p div align="center"> 
   
-  $${\color{yellow}System} {} {\color{yellow}Architecture} {} {\color{yellow}Engineer}$$ </p>
+  $${\color{pink}System} {} {\color{pink}Architecture} {} {\color{pink}Engineer}$$ </p>
 
 </div>
 
@@ -27,9 +27,10 @@
       <strong><span style="color:red">$${\color{red}Programming} {} {\color{red}Languages}$$</span></strong><br><br>
       <ul>
         <li>Bash / Unix Shell – 9 years</li>
-        <li>C / C# / C++ / Arduino – 2 years</li>
+        <li>C / C++ / Arduino – 2 years</li>
+        <li> C# - 6 months</li>
         <li>HTML / Markdown – 8 months</li>
-        <li>Java – 1 year</li>
+        <li>Java – 2 years</li>
         <li>Python – 5 years</li>
       </ul>
     </td>
