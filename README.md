@@ -83,7 +83,7 @@
 
 <div align="center">
 
-  - **Group Development Project:** [Click Me!](https://github.com/jprichard1ewu/spaghetti-mafia) 
+  - **Group Development Project:** [Click Me!](https://github.com/Hellothereyoko/spaghetti-mafia-copy) 
   - **MacOS Jailbreak App:** [Click Me!](https://github.com/Hellothereyoko/MacOS-Enable-Homebrew)
   - **Weather API:** [Click Me!](https://github.com/Hellothereyoko/My-Weather-API)
 
