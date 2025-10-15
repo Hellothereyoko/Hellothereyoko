@@ -82,8 +82,9 @@
   <h2 align="center"> $${\color{red}Featured} {} {\color{red}Projects}$$ </h2>
 
 <div align="center">
-  
-  - **MacOS Jailbreak App:** [Click Me!](https://github.com/Hellothereyoko/MacOS-Enable-Homebrew)  
+
+  - **Group Development Project:** [Click Me!](https://github.com/jprichard1ewu/spaghetti-mafia) 
+  - **MacOS Jailbreak App:** [Click Me!](https://github.com/Hellothereyoko/MacOS-Enable-Homebrew)
   - **Weather API:** [Click Me!](https://github.com/Hellothereyoko/My-Weather-API)
 
 </div>
