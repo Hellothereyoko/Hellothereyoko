@@ -98,7 +98,8 @@
   
   - 🎓 **Design & Modelling Program** @ John Shaw Jr. High (_2016 - 2018_)  
   - 🛡️ **CyberSecurity Mentorship** @ USAF CyberPatriot (_2018 - 2019_)  
-  - 📚 **Bachelor’s in Computer Science** @ EWU (_2019 - Present_)  
+  - 📚 **Bachelor’s in Computer Science** @ EWU (_2019 - Present_)
+  - 📚 **Japanese Lingustics & Customs** @ EWU & North Central High School (_2017 - Present_)
   - 🚀 **CoFounder** @ CorgoR&D (_2023 - Present_)  
   - 🔧 **Artificial Intelligence QA Tester** @ Cengage Inc. (_2025_)
     
