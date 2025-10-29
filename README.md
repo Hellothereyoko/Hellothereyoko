@@ -30,7 +30,7 @@
         <li>Bash / Unix Shell – 9 years</li>
         <li>C / C++ / Arduino – 2 years</li>
         <li> C# - 6 months</li>
-        <li>HTML / Markdown – 8 months</li>
+        <li>HTML / Markdown – 1 year</li>
         <li>Java – 2 years</li>
         <li>Python – 5 years</li>
       </ul>
