@@ -84,6 +84,7 @@
 <div align="center">
 
   - **Group Development Project:** [Click Me!](https://github.com/Hellothereyoko/spaghetti-mafia-copy) 
+  - **Install Wizard Example:** [Click Me!](https://github.com/Hellothereyoko/Install-Wizard)
   - **MacOS Jailbreak App:** [Click Me!](https://github.com/Hellothereyoko/MacOS-Enable-Homebrew)
   - **Weather API:** [Click Me!](https://github.com/Hellothereyoko/My-Weather-API)
 
