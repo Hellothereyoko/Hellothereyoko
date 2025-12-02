@@ -1,7 +1,7 @@
 
   
 <h1 align="center"> $${\color{red}Yoko} {} {\color{red}Parks}$$  </h1>
-<h1 align="center"> $${\color{red}パークス} {} {\color{red}・} {} {\color{red}洋子}$$ </h1>
+<h1 align="center"> $${\color{red}パークス} {} {\color{red}・} {} {\color{red}葉子}$$ </h1>
 
 <div align="center">  
   
