@@ -72,6 +72,7 @@
     <li>OPENSCAD 3D CAD Modeling</li>
     <li>Ren'Py Game Engine</li>
     <li>Reverse Engineering of Computer Architecture</li>
+    <li>Working in a team settng</li>
   </ul>
 </div>
 
@@ -81,10 +82,11 @@
 
   <h2 align="center"> $${\color{red}Featured} {} {\color{red}Projects}$$ </h2>
 
+
 <div align="center">
 
   - **Group Development Project:** [Click Me!](https://github.com/Hellothereyoko/spaghetti-mafia-copy) 
-  - **Install Wizard Example:** [Click Me!](https://github.com/Hellothereyoko/Install-Wizard)
+  - **Install Wizard for SCOOP & Maven for Java:** [Click Me!](https://github.com/Hellothereyoko/Install-Wizard)
   - **MacOS Jailbreak App:** [Click Me!](https://github.com/Hellothereyoko/MacOS-Enable-Homebrew)
   - **Weather API:** [Click Me!](https://github.com/Hellothereyoko/My-Weather-API)
 
